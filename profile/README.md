@@ -10,17 +10,18 @@ ChopyTeam to zespół pasjonatów programowania, którzy dążą do tworzenia in
 
 W naszej organizacji specjalizujemy się w następujących technologiach:
 
-- **C++**: Wykorzystujemy C++ do tworzenia wydajnych i skalowalnych aplikacji.
-- **Java**: Jako język o ogromnym wsparciu społecznościowym, używamy Javy do budowy różnorodnych rozwiązań.
-- **TypeScript**: Z TypeScriptem możemy tworzyć aplikacje webowe o wysokiej jakości i przejrzystym kodzie.
-- **React**: React jest naszym narzędziem do budowy dynamicznych interfejsów użytkownika.
+- **C++**
+- **Java**
+- **Spring Boot**
+- **TypeScript**
+- **React (Next.js)**
 
 ## Projekty
 
 Oto kilka przykładowych projektów, nad którymi pracujemy:
 
-1. **LKS Glowienka**: Aplikacja webowa strony klubu piłrkarskiego wykorzystująca React.
-2. **Gwizd**: Aplikacja webowa napisana na potrzeby konkursu HackYeah2023 wykorzystująca SpringBoot oraz React.
+1. **LKS Glowienka**: Aplikacja webowa strony klubu piłrkarskiego z automatycznymi statystykami na podstawie wydarzeń meczowych.
+2. **Gwizd**: Aplikacja webowa do zgłaszania spotkań z dzikimi zwierzętami w mieście.
 
 
 Dziękujemy za zainteresowanie naszą organizacją!
