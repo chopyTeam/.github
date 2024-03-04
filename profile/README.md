@@ -1,11 +1,8 @@
-# Witaj w ChopyTeam!
-
-Witamy w organizacji ChopyTeam, gdzie skupiamy się na tworzeniu oprogramowania i stron internetowych przy użyciu różnych technologii, w tym głównie C++, Java, TypeScript i React.
+# ChopyTeam
 
 ## O nas
 
-ChopyTeam to zespół pasjonatów programowania, którzy dążą do tworzenia innowacyjnych rozwiązań w świecie technologicznym. Nasze projekty obejmują szeroki zakres dziedzin, od aplikacji mobilnych po zaawansowane systemy internetowe.
-
+ChopyTeam to zespół pasjonatów programowania, którzy dążą do tworzenia innowacyjnych rozwiązań w świecie technologicznym. Nasze projekty obejmują aplikacje webowe, ale i kilka projektów desktopowych.
 ## Technologie
 
 W naszej organizacji specjalizujemy się w następujących technologiach:
