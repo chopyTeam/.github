@@ -1,8 +1,8 @@
-# ChopyTeam
+# ImmortalCoders
 
 ## O nas
 
-ChopyTeam to zespół pasjonatów programowania, którzy dążą do tworzenia innowacyjnych rozwiązań w świecie technologicznym. Nasze projekty obejmują aplikacje webowe, ale i kilka projektów desktopowych.
+ImmortalCoders to zespół pasjonatów programowania, którzy dążą do tworzenia innowacyjnych rozwiązań w świecie technologicznym. Nasze projekty obejmują aplikacje webowe, ale i kilka projektów desktopowych.
 ## Technologie
 
 W naszej organizacji specjalizujemy się w następujących technologiach:
